@@ -8,3 +8,4 @@ function myFunction() {
     Logger.log(event.getStartTime());
   })
 }
+badcodelol
